@@ -1,17 +1,5 @@
 ﻿# Terminal Cheatsheet for Mac (Basics)
 
-
-
-- [Polska wersja](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/polish)
-- [Versão em Portuguêse](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/portugues)
-- [Türkçe Versiyon](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/turkish)
-- [Phiên bản tiếng việt](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/tieng-viet)
-- [Русская версия](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/russian)
-- [中文请参考](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/中文请参考)
-- [Korean](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/korean)
-
-------------
-
 _Letters are shown capitalized for readability only._  _Capslock should be off._
 ## SHORTCUTS
 
